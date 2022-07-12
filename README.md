@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=arhamizza&color=dc143c)
 <!--
 **arhamizza/arhamizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
