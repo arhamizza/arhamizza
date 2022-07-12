@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arhamizza&theme=algolia" alt="arhamizza"  /></p>
 
 <hr>
